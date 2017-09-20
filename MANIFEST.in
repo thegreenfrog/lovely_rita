@@ -1,0 +1,3 @@
+graft lovely_rita/templates
+graft lovely_rita/static
+include lovely_rita/schema.sql

@@ -1,0 +1,9 @@
+MANIFEST.in
+lovely_rita/__init__.py
+lovely_rita/lovely_rita.py
+lovely_rita/schema.sql
+lovely_rita.egg-info/PKG-INFO
+lovely_rita.egg-info/SOURCES.txt
+lovely_rita.egg-info/dependency_links.txt
+lovely_rita.egg-info/requires.txt
+lovely_rita.egg-info/top_level.txt
